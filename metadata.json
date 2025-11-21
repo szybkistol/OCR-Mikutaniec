@@ -1,0 +1,5 @@
+{
+  "name": "OCR Mikutaniec",
+  "description": "Intelligent document extraction tool using Gemini Flash. Extract structured data from any file instantly.",
+  "requestFramePermissions": []
+}
